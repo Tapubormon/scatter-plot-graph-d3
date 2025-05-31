@@ -19,7 +19,7 @@ This project is a simple **Scatter Plot** built using [D3.js](https://d3js.org/)
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-username.github.io/scatter-plot-d3)
+[Click here to view the live project](https://tapubormon.github.io/scatter-plot-graph-d3/)
 
 
 
